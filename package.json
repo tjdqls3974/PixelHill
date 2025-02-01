@@ -1,13 +1,13 @@
 {
-  "name": "mrslauncher",
-  "version": "3.0.3",
-  "productName": "MRS Launcher",
+  "name": "PixelHill",
+  "version": "1.0.0",
+  "productName": "PixelHill",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), peunsu (https://github.com/peunsu)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/peunsu/MRSLauncher",
+  "homepage": "https://github.com/tjdqls3974/tjdqls3974",
   "bugs": {
-    "url": "https://github.com/peunsu/MRSLauncher/issues"
+    "url": "https://github.com/tjdqls3974/tjdqls3974/issues"
   },
   "private": true,
   "main": "index.js",
